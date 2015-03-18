@@ -1,4 +1,4 @@
-# Files Given Records by bst/avl tree
+# Files Given Records by Bst/Avl tree
 
 Implemented a binary search tree and avl tree used to store and retrieve articles.
 The tree will be sorted by keyword, and each node will contain an unordered linked
